@@ -5,3 +5,5 @@
 - *Conheça os principais tipos de dados*
 - *Utilize o Scanner para leitura de dados*
 - *Controle o fluxo da aplicação com o uso de condicionais e loops*
+
+https://cursos.alura.com.br/course/java-criando-primeira-aplicacao
